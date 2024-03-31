@@ -1,0 +1,5 @@
+Django==5.0.3
+djangorestframework-simplejwt==5.3.1
+cryptography==42.0.5
+pycryptodomex==3.20.0
+pycryptodome==3.20.0

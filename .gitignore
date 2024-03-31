@@ -1,0 +1,11 @@
+.idea/
+main.py
+env/
+.git/
+git/
+__pycache__/
+.env
+media/
+static/
+testing.py
+main.py

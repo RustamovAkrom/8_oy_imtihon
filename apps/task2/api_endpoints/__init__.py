@@ -1,0 +1,1 @@
+from .VacancyList import VacancyList
